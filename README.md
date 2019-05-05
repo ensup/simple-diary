@@ -1,3 +1,4 @@
 # Simple Diary
-Written by Ensup
+Made by Ensup
+<br />
 Made with Python
